@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQLwebProject" uuid="58b7a706-5919-4407-896a-c613d1ae0e18">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://us-cdbr-east-04.cleardb.com:3306/heroku_f5bf96eac5f4c0d</jdbc-url>
+    </data-source>
+  </component>
+</project>
